@@ -181,3 +181,6 @@ img {
   display: flex;
   gap: 40px;
 }
+section {
+  padding: 118px 0;
+}
