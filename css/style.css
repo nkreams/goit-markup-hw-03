@@ -18,6 +18,7 @@ ul {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 .textlogo {
   color: #2e2f42;
@@ -28,9 +29,12 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding: 24px 0;
 }
 .contact {
   font-style: normal;
+  display: flex;
+  gap: 40px;
 }
 .contlink {
   font-size: 16px;
@@ -138,4 +142,26 @@ ul {
 .logosus {
   color: #4d5ae5;
   text-transform: uppercase;
+}
+img {
+  display: block;
+}
+.mainheader {
+  border-bottom: 1px solid #e7e9fc;
+}
+.headdiv {
+  display: flex;
+}
+.container {
+  width: 1158px;
+  margin: 0;
+  padding: 0 15px;
+}
+.navhead {
+  display: flex;
+  align-items: center;
+}
+.listnavi {
+  display: flex;
+  gap: 40px;
 }
