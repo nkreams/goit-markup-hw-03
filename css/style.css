@@ -50,6 +50,7 @@ ul {
 }
 .sectone {
   background-color: #2e2f42;
+  padding: 118px 0;
 }
 .mainheadss {
   font-size: 56px;
@@ -57,6 +58,7 @@ ul {
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
+  max-width: 496px;
 }
 .butmain {
   background-color: #4d5ae5;
@@ -64,6 +66,13 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  cursor: pointer;
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  background-color: #4d5ae5;
+  border-radius: 4px;
   cursor: pointer;
 }
 .butmain:hover,
@@ -162,6 +171,10 @@ img {
   align-items: center;
 }
 .listnavi {
+  display: flex;
+  gap: 40px;
+}
+.listitem {
   display: flex;
   gap: 40px;
 }
