@@ -200,9 +200,6 @@ section {
 .ultwo {
   gap: 24px;
 }
-.litwo {
-  width: calc((100% - 72px) / 4);
-}
 .ulthree {
   display: flex;
   gap: 24px;
