@@ -261,9 +261,6 @@ ul {
   column-gap: 24px;
   row-gap: 48px;
 }
-.lisectthree {
-  width: calc((100% - 3 * 24px) / 4);
-}
 .lisectfour {
   width: calc((100% - 48px) / 3);
 }
