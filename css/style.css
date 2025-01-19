@@ -1,3 +1,8 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -34,6 +39,7 @@ ul {
   font-style: normal;
   display: flex;
   gap: 40px;
+  margin-left: auto;
 }
 .contlink {
   font-size: 16px;
@@ -203,4 +209,5 @@ img {
 .conlist {
   display: flex;
   gap: 40px;
+  align-items: center;
 }
