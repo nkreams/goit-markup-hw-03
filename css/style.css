@@ -196,3 +196,6 @@ img {
 .secondli {
   width: calc((100%-72px) / 4);
 }
+.navilink {
+  padding: 24px 0;
+}
