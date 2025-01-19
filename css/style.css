@@ -212,7 +212,7 @@ img {
   gap: 24px;
 }
 .secondli {
-  width: calc((100% - 72px) / 4);
+  width: calc((100%-72px) / 3);
 }
 .navilink {
   padding: 24px 0;
