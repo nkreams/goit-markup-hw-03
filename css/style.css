@@ -200,3 +200,7 @@ img {
 .navilink {
   padding: 24px 0;
 }
+.conlist {
+  display: flex;
+  gap: 40px;
+}
