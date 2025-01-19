@@ -227,7 +227,7 @@ img {
   margin: 0;
 }
 .secondli {
-  width: calc((100% - 72px) / 2);
+  width: calc((100% - 72px) / 3);
 }
 .navilink {
   padding: 24px 0;
