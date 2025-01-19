@@ -166,6 +166,8 @@ img {
 }
 .headerdiv {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .container {
   width: 1158px;
@@ -179,10 +181,12 @@ img {
 .listnavi {
   display: flex;
   gap: 40px;
+  align-items: center;
 }
 .listitem {
   display: flex;
   gap: 40px;
+  align-items: center;
 }
 .visually-hidden {
   position: absolute;
