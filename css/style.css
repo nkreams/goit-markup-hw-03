@@ -184,9 +184,6 @@ ul {
   margin-bottom: 16px;
   display: inline-block;
 }
-img {
-  display: block;
-}
 .mainheader {
   border-bottom: 1px solid #e7e9fc;
 }
@@ -268,4 +265,7 @@ img {
   border: 1px solid #e7e9fc;
   border-top: none;
   margin-bottom: 8px;
+}
+.lisectthree {
+  width: calc((100% - 72px) / 4);
 }
