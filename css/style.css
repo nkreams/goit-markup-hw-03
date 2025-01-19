@@ -175,6 +175,7 @@ ul {
   color: #4d5ae5;
   text-transform: uppercase;
   margin-bottom: 16px;
+  display: inline-block;
 }
 img {
   display: block;
@@ -226,7 +227,7 @@ img {
   margin: 0;
 }
 .secondli {
-  width: calc((100% - 72px) / 3);
+  width: calc((100% - 72px) / 2);
 }
 .navilink {
   padding: 24px 0;
