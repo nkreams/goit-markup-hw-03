@@ -9,6 +9,13 @@ body {
   font-size: 16px;
   background-color: #ffffff;
 }
+img {
+  max-width: 100%;
+  display: block;
+}
+section {
+  padding: 120px 0;
+}
 a {
   text-decoration: none;
 }
