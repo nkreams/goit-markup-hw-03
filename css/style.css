@@ -134,10 +134,19 @@ ul {
   color: #2e2f42;
   padding: 120px 0;
 }
+.secttwoh {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  margin-bottom: 8px;
+  text-align: left;
+}
 .ourthree {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
+  line-height: 24px;
   letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
@@ -146,8 +155,9 @@ ul {
 .paragraph {
   font-size: 16px;
   color: #434455;
-  line-height: 1.5;
-  letter-spacing: 0.1em;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  font-weight: 400;
 }
 .sectthree {
   background-color: #f4f4fd;
