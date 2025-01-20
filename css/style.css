@@ -285,3 +285,20 @@ ul {
   border: 1px solid #e7e9fc;
   border-top: none;
 }
+.fourh {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  margin-bottom: 8px;
+  text-align: left;
+}
+.fourpar {
+  font-size: 16px;
+  color: #434455;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  font-weight: 400;
+  text-align: left;
+}
